@@ -1,6 +1,4 @@
-Here’s a unified README file that combines both components:
 
----
 
 # Plant Health Assessment: Disease Classification and Color Segmentation
 
